@@ -1,0 +1,3 @@
+In orange the historical prices .
+
+In other colors, the simulated prices.
