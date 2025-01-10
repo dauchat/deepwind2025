@@ -14,6 +14,10 @@ Structure :
   The datasets folder contains the PowerGAMA datasets used for the optimization of the system
   Results contains the analysis of all results outputs of the scenarios, gathered in excel files and expressed with the ENTSOE convention for bidding zones. 
 
+Acknowledgements : 
+The authors would like to thank the Erasmus+ funding program, the UCLouvain and NTNU universities for their support.
+This work was conducted as part of the specialization project course TET4510 at NTNU during my exchange semester as part of the Erasmus+ programme. It will further be extended in 2025 as part of my master thesis at UCLouvain and NTNU.
+
 
 Graphical attribution : 
 
