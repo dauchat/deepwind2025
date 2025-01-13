@@ -1,4 +1,4 @@
-Thie repository presents the full research of the Deepwind 2025 poster and article : Grid and Market Impacts of 10 GW Norwegian Offshore Wind using the PowerGAMA model
+Grid and Market Impacts of 10 GW Norwegian Offshore Wind using the PowerGAMA model
 
 Authors : Liam Dauchat (1,2) and Magnus Korpås (1)
 
